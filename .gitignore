@@ -1,2 +1,3 @@
 check_env
 logs
+.gitignore

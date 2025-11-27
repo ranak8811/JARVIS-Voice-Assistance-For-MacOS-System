@@ -168,7 +168,7 @@ def main():
                 logging.info("User asked about assistant's well-being.")
 
             elif "who made you" in query:
-                speak("I was created by Anwar, a brilliant mind!")
+                speak("I was created by Anwar, a Data Science Learner!")
                 logging.info("User asked about assistant's creator.")
 
             elif "thank you" in query:
